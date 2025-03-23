@@ -4,6 +4,8 @@
 
 ## Some were so I could learn certain stacks.
 
+## I then used various LLM tools to understand, rewrite, and plan new versions.
+
 <!--
 **ekulkisnek/ekulkisnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
