@@ -1,4 +1,8 @@
-## Most of these were created with replit. Others are forks of existing code that I used replit to modify or understand. 
+## I used replit to write most of these repos.
+
+## Some are forked from existing code.
+
+## Some were so I could learn certain stacks.
 
 <!--
 **ekulkisnek/ekulkisnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
