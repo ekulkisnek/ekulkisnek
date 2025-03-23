@@ -1,4 +1,4 @@
-## Hi there 👋
+## Most of these were created with replit. Others are forks of existing code that I used replit to modify or understand. 
 
 <!--
 **ekulkisnek/ekulkisnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
